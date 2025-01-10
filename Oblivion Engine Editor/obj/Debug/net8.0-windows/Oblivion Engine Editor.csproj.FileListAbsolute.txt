@@ -1,0 +1,28 @@
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\bin\Debug\net8.0-windows\Oblivion Engine Editor.exe
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\bin\Debug\net8.0-windows\Oblivion Engine Editor.deps.json
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\bin\Debug\net8.0-windows\Oblivion Engine Editor.runtimeconfig.json
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\bin\Debug\net8.0-windows\Oblivion Engine Editor.dll
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\bin\Debug\net8.0-windows\Oblivion Engine Editor.pdb
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.g.resources
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.sourcelink.json
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.dll
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\refint\Oblivion Engine Editor.dll
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.pdb
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Oblivion Engine Editor.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\ref\Oblivion Engine Editor.dll
+C:\Users\Lenovo\Desktop\OE\OE\x64\Release\Debug\net8.0-windows\Oblivion Engine Editor.exe
+C:\Users\Lenovo\Desktop\OE\OE\x64\Release\Debug\net8.0-windows\Oblivion Engine Editor.deps.json
+C:\Users\Lenovo\Desktop\OE\OE\x64\Release\Debug\net8.0-windows\Oblivion Engine Editor.runtimeconfig.json
+C:\Users\Lenovo\Desktop\OE\OE\x64\Release\Debug\net8.0-windows\Oblivion Engine Editor.dll
+C:\Users\Lenovo\Desktop\OE\OE\x64\Release\Debug\net8.0-windows\Oblivion Engine Editor.pdb
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\GameProject\BrowserDialog.g.cs
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\GameProject\BrowserDialog.baml
