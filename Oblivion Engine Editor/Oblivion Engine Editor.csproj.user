@@ -7,6 +7,15 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Editors\WorldEditor\GameEntityView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Editors\WorldEditor\ProjectLayoutView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Editors\WorldEditor\WorldEditorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="GameProject\BrowserDialog.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -16,8 +25,23 @@
     <Compile Update="GameProject\OpenProjectView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Utilities\UndoRedoView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Dictionaries\ControlTemplates.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Editors\WorldEditor\GameEntityView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Editors\WorldEditor\ProjectLayoutView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Editors\WorldEditor\WorldEditorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="GameProject\BrowserDialog.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -28,6 +52,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Utilities\UndoRedoView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

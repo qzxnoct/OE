@@ -22,8 +22,19 @@ namespace Oblivion_Engine_Editor.GameProject
         public BrowserDialog()
         {
             InitializeComponent();
+            Loaded += OnBrowserDialogLoaded;
+            Topmost = true; ///The dialog should be on the mainwindow
         }
-
+        private void OnBrowserDialogLoaded(object sender, RoutedEventArgs e)
+        {
+            Loaded -= OnBrowserDialogLoaded;
+            if(!OpenProject.Projects.Any())
+            {
+                openProjectButton.IsEnabled = false;
+                openProjectView.Visibility = Visibility.Hidden;
+                OnToggleButton_Click(createProjectButton, new RoutedEventArgs());
+            }
+        }
         private void OnToggleButton_Click(object sender, RoutedEventArgs e)
         {
             if (sender == openProjectButton)
