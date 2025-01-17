@@ -10,7 +10,7 @@ using System.Windows;
 namespace Oblivion_Engine_Editor.Components
 {
     [DataContract]
-    public class Transform : Component
+    class Transform : Component
     {
         private Vector3 _position;
         [DataMember]

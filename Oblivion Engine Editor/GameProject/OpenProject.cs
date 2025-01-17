@@ -8,6 +8,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Shapes;
 
 namespace Oblivion_Engine_Editor.GameProject
 {
@@ -89,8 +90,9 @@ namespace Oblivion_Engine_Editor.GameProject
             }
             catch(Exception e)
             {
-                Debug.WriteLine(e.Message); 
-                return;
+                Debug.WriteLine(e.Message);
+                Logger.Log(MessageType.Error, $"Failed to read project data");
+                throw;
             }
         }
     }

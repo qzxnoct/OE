@@ -42,3 +42,5 @@ C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Ed
 C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Dictionaries\ControlTemplates.g.cs
 C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\App.baml
 C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Dictionaries\ControlTemplates.baml
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Utilities\LoggerView.g.cs
+C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\obj\Debug\net8.0-windows\Utilities\LoggerView.baml

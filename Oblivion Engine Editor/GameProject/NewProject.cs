@@ -112,7 +112,8 @@ namespace Oblivion_Engine_Editor.GameProject
             catch (Exception e) 
             {
                 Debug.WriteLine(e.Message);
-                return string.Empty;
+                Logger.Log(MessageType.Error, $"Failed to create {ProjectName}");
+                throw;
             }
         }
         public NewProject()
@@ -144,6 +145,8 @@ namespace Oblivion_Engine_Editor.GameProject
             catch(Exception e) 
             {
                 Debug.WriteLine(e);
+                Logger.Log(MessageType.Error, $"Failed to read project templates");
+                throw;
             }
             
         }

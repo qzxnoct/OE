@@ -14,7 +14,7 @@ using System.Windows.Input;
 namespace Oblivion_Engine_Editor.GameProject
 {
     [DataContract(Name = "Game")]
-    public class Project: ViewModelBase
+    class Project: ViewModelBase
     {
         public static string Extension { get; } = ".oblivion";
         [DataMember]
@@ -51,11 +51,13 @@ namespace Oblivion_Engine_Editor.GameProject
         }
         public void Unload()
         {
-
+            UndoRedo.Reset();
         }
         public static void Save(Project project)
         {
             Serializer.ToFile(project, project.FullPath);
+            Debug.WriteLine("Save" + project.FullPath);
+            Logger.Log(MessageType.Info, $"Project saved to {project.FullPath}");
         }
         [OnDeserialized]
         private void OnDeserialized(StreamingContext context)

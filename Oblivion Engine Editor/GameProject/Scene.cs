@@ -13,7 +13,7 @@ using System.Windows.Input;
 namespace Oblivion_Engine_Editor.GameProject
 {
     [DataContract]
-    public class Scene : ViewModelBase
+    class Scene : ViewModelBase
     {
         private string _name;
         [DataMember]

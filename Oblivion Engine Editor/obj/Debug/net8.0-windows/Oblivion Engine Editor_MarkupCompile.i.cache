@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Lenovo\Desktop\OE\OE\Oblivion Engine Editor\App.xaml
-91061435193
+10-948507226
 
-251483061615
+28-1220821271
 198-688555687
-Dictionaries\ControlTemplates.xaml;Editors\WorldEditor\GameEntityView.xaml;Editors\WorldEditor\ProjectLayoutView.xaml;Editors\WorldEditor\WorldEditorView.xaml;GameProject\BrowserDialog.xaml;GameProject\NewProjectView.xaml;GameProject\OpenProjectView.xaml;MainWindow.xaml;Utilities\UndoRedoView.xaml;
+Dictionaries\ControlTemplates.xaml;Editors\WorldEditor\GameEntityView.xaml;Editors\WorldEditor\ProjectLayoutView.xaml;Editors\WorldEditor\WorldEditorView.xaml;GameProject\BrowserDialog.xaml;GameProject\NewProjectView.xaml;GameProject\OpenProjectView.xaml;MainWindow.xaml;Utilities\LoggerView.xaml;Utilities\UndoRedoView.xaml;
 
 True
 

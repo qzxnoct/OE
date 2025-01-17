@@ -8,15 +8,22 @@ using System.Threading.Tasks;
 
 namespace Oblivion_Engine_Editor.Components
 {
+    interface IMSComponent { }
     [DataContract]
-    public class Component : ViewModelBase
+    abstract class Component : ViewModelBase
     {
         [DataMember]
         public GameEntity Owner { get; private set; }
+
         public Component(GameEntity owner)
         {
             Debug.Assert(owner != null);
             Owner = owner;
         }
+    }
+
+    abstract class MSComponent<T> : ViewModelBase, IMSComponent where T : Component
+    {
+
     }
 }

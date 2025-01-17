@@ -23,6 +23,8 @@ namespace Oblivion_Engine_Editor.Utilities
             catch(Exception e)
             {
                 Debug.WriteLine(e.Message);
+                Logger.Log(MessageType.Error, $"Failed to deserialize {instance} to {path}");
+                throw;
             }
         }
         internal static T FromFile<T>(string path)
@@ -37,7 +39,8 @@ namespace Oblivion_Engine_Editor.Utilities
             catch (Exception e)
             {
                 Debug.WriteLine(e.Message);
-                return default(T);
+                Logger.Log(MessageType.Error, $"Failed to deserialize {path}");
+                throw;
             }
         }
     }
